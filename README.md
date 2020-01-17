@@ -23,6 +23,9 @@ The dataset was taken from the StatLib library which is maintained at Carnegie M
 - origin: multi-valued discrete
 - car name: string (unique for each instance)
 
-### Acknowledgements
+## Analysis
+### Details and graphs are shown in the ipython file
+
+#### Acknowledgements
 
 Dataset: UCI Machine Learning Repository Data link : https://archive.ics.uci.edu/ml/datasets/auto+mpg
